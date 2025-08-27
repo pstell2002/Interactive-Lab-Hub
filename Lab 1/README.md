@@ -97,8 +97,11 @@ Try physically acting out the interaction you planned. For now, you can just pre
 
 \*\***Are there things that seemed better on paper than acted out?**\*\*
 
+On paper, the process of scanning a product's bar code seemed fairly straightforward, but we realized that there are instances where the food that is stored in our kitchen no longer contains its barcode label, which our storyboard did not account for. Also, the bar code may be damaged which may give the scanner trouble reading it. Additionally, as this is not explicitly stated in our storyboard, we also need to consider whether our device is better as being handheld or fixed somehwere in the kitchen.
+
 \*\***Are there new ideas that occur to you or your collaborator that come up from the acting?**\*\*
 
+Going off of the prior observations, maybe having an output screen where the scanner cannot read the bar code may cover edge cases where the bar code does not exist or is damaged. Also, considering that food items come in different sizes and forms, acting out the device as a handheld, mobile device seems to be more suitable.
 
 ## Part C. Prototype the device
 
@@ -132,7 +135,7 @@ Think about the setting of the device: is the environment a place where the devi
 \*\***Include sketches of what your devices might look like here.**\*\*
 
 \*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
-
+As the action of scanning is a simple interaction, opportunities for this device include making it fun for the user and emulating a real life mental model. As such, we designed it to feel like a fun barcode scanner as you would see in a grocery store. 
 
 ## Part F. Record
 
